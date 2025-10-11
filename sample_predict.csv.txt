@@ -1,0 +1,5 @@
+age,sex,bmi,children,smoker,region
+25,male,28.5,0,no,northeast
+45,female,33.1,2,yes,southeast
+60,male,26.7,3,no,northwest
+30,female,29.2,1,no,southwest
